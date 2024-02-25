@@ -44,3 +44,30 @@
     align-items: center;
     width: 80%;
 }
+.signup-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(53, 111, 235);
+    font-size: 1rem;
+    font-weight: 600;
+}
+.signup-btn{
+    color: red;
+    cursor: pointer;
+}
+.signup-btn:hover{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.btn-loginup{
+    padding: 1rem;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(122,170,224);
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    cursor: pointer;
+    width: 100%;
+}
